@@ -1,4 +1,4 @@
-The following project explains insights on flight delays departing from New York airports, JFK, EWR, and LGA throughout the year of 2013.
+The following group project explains insights on flight delays departing from New York airports, JFK, EWR, and LGA throughout the year of 2013.
 
 Suggestion to use this folder:
 ------------------------------
