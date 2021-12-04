@@ -1,2 +1,2 @@
-# SQL
-Business Reporting projects developed with SQL and Tableau
+# Business Reporting Tools
+Projects developed with SQL and Tableau for data manipulation and visualization
